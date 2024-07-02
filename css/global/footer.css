@@ -54,6 +54,9 @@
     grid-template-columns: 1fr 1fr;
     gap: 60px;
   }
+  .footer-copy {
+    justify-self: start;
+  }
 }
 
 @media (max-width: 600px) {
